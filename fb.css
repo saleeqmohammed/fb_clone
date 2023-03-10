@@ -1,0 +1,139 @@
+body{
+    margin:0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header{
+    background:#3b5998 ;
+    width: 100%;
+    height: 100px;
+}
+.logo{
+    width: 50%;
+    padding-top: 35px;
+    float: left;
+}
+.logo a{
+    color: #fff;;
+    font-size: 44px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 150px;
+
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+.login label{
+    color: white;
+    font-size: 11px;    
+}
+.login table{
+    margin-left: 115px;
+}
+.login a{
+    font-size: 11px;
+    text-decoration: none;
+    color:#9cb4d8;
+
+}
+.login-button{
+    background: #4267b2;
+    color:#fff;
+    height: 25px;
+    padding-top: 2px;
+    padding-bottom:2px;
+    border-color: #29487d;
+    border-style: solid;
+    border-radius: 3px;
+
+}
+.login input{
+    border-radius: 3px;
+    border:1px #3b5998 solid;
+}
+.login-button:hover{
+    background:#81a8f7 ;
+}
+.main-body{
+    background: linear-gradient(white,#d3d8e8);
+    width: 100%;
+}
+.left-section{
+float: left;
+width: 50%;
+}
+.left-section p{
+    color:#121669;
+    font-size: 25px;
+    font-weight: 650;
+    padding-left: 13%;
+}
+.left-section img{
+    width: 70%;
+    padding-left: 13%;
+}
+.right-section{
+float: left;
+width: 50%;
+color: black;
+}
+#subtitle{
+    font-size: 20px;
+    font-weight: 600;
+    color:#050842;
+
+}
+.text-input{
+    height: 24px;
+    font-size: 18px;
+    border-radius: 4px;
+    width: 100%;
+    padding:4px;
+    border:2px #d3d8e8 solid;
+}
+.right-section table tr td{
+    padding:6px;
+}
+.right-section table label{
+    color:#626278;
+    font-size: 18px;
+    font-weight: 600;
+}
+.right-section select{
+    height: 25px;
+    border-radius: 4px;
+    border:1px rgb(152, 152, 173) solid;
+}
+.right-section table img{
+    width: 12px;
+    height: 12px;
+}
+.form-radio{
+    color:#403f45;
+    font-size: 16px;
+    font-weight: 600;
+}
+.right-section table p{
+    color:#727175;
+    font-weight: 600;
+    font-size: 14px;
+}
+.right-section table a{
+    text-decoration: none;
+    color:#81a8f7;
+    font-weight: 600;
+}
+#signup{
+    background: green;
+    border:1px green solid;
+    border-radius: 5px;
+    padding:5px;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    width: 150px;
+    text-shadow: 6px black;
+
+}
